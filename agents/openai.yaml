@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shipping Engineering Work"
+  short_description: "Practical engineering workflow for AI coding agents"
+  default_prompt: "Use $shipping-engineering-work to turn this engineering task into a small, verified, reviewable delivery."
