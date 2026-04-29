@@ -6,6 +6,13 @@ A portable engineering workflow skill for AI coding agents.
 
 Created and maintained by [鲲鹏AI探索局](https://kunpeng-ai.com).
 
+Official pages:
+
+- Skill page: [kunpeng-ai.com/skills/shipping-engineering-work](https://kunpeng-ai.com/skills/shipping-engineering-work/)
+- Project page: [kunpeng-ai.com/projects/shipping-engineering-work](https://kunpeng-ai.com/projects/shipping-engineering-work/)
+- Practical guide: [Shipping Engineering Work Skill guide](https://kunpeng-ai.com/blog/shipping-engineering-work-skill-guide/)
+- Download package: [shipping-engineering-work-skill.zip](https://kunpeng-ai.com/downloads/shipping-engineering-work-skill.zip)
+
 It helps an agent turn a vague engineering request into a small, verified, reviewable delivery. The skill blends product judgment, evidence-based debugging, implementation discipline, and upstream contribution hygiene without depending on one agent runtime's tool names.
 
 Designed for:
@@ -231,3 +238,10 @@ Use shipping-engineering-work to hand this task from Codex to Claude Code withou
 ## 关于鲲鹏AI探索局
 
 [鲲鹏AI探索局](https://kunpeng-ai.com) 关注 AI Agent、工程自动化、开源实践、GEO 优化、模型聚合与实战型 AI 工具沉淀。这个 Skill 是我们在 OpenClaw、Hermes、Codex、Claude Code 等真实工程协作场景中沉淀出来的通用工作法。
+
+相关页面：
+
+- Skill 页面：[kunpeng-ai.com/skills/shipping-engineering-work](https://kunpeng-ai.com/skills/shipping-engineering-work/)
+- 项目页：[kunpeng-ai.com/projects/shipping-engineering-work](https://kunpeng-ai.com/projects/shipping-engineering-work/)
+- 实战指南：[Shipping Engineering Work Skill：让 AI Coding Agent 更像一个靠谱工程协作者](https://kunpeng-ai.com/blog/shipping-engineering-work-skill-guide/)
+- 下载包：[shipping-engineering-work-skill.zip](https://kunpeng-ai.com/downloads/shipping-engineering-work-skill.zip)
